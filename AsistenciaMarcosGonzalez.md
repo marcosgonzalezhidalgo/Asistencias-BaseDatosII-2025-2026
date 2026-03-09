@@ -7,3 +7,5 @@
 - Asistencia 02/03/2026
 
 - Asistencia 04/03/2026 
+
+- Asistencia 09/03/2026
