@@ -94,8 +94,8 @@ for pr in prs:
     print("Hora convertida:", hora_pr)
 
     if user not in alumnos:
-    print("❌ SKIP user no encontrado:", user)
-    continue
+        print("❌ SKIP user no encontrado:", user)
+        continue
 
     if fecha_pr != fecha:
         print("❌ SKIP fecha:", fecha_pr, "!=", fecha)
